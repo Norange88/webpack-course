@@ -1,0 +1,13 @@
+$color: green;
+
+.hello-world-button {
+  padding: 10px 24px;
+  text-align: center;
+  background-color: $color;
+  color: #fff;
+}
+
+.hello-world-paragraph {
+  margin-top: 10px;
+  color: $color;
+}

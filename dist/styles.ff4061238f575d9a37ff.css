@@ -1,0 +1,22 @@
+/*!*************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/HelloWorldButton/style.scss ***!
+  \*************************************************************************************************************************************/
+.hello-world-button {
+  padding: 10px 24px;
+  text-align: center;
+  background-color: green;
+  color: #fff;
+}
+
+.hello-world-paragraph {
+  margin-top: 10px;
+  color: green;
+}
+/*!****************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Heading/style.scss ***!
+  \****************************************************************************************************************************/
+.header {
+  margin-bottom: 24px;
+  font-size: 56px;
+  color: gray;
+}
