@@ -7,11 +7,11 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-self["webpackHotUpdatewebpack_course"]("main",{},
+self["webpackHotUpdatewebpack_course"]("avatar-image",{},
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ /* webpack/runtime/getFullHash */
 /******/ (() => {
-/******/ 	__webpack_require__.h = () => ("11c310fea989bf7c04aa")
+/******/ 	__webpack_require__.h = () => ("0a6b6dbd31758ed7512d")
 /******/ })();
 /******/ 
 /******/ }

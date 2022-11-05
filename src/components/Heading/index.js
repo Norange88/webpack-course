@@ -1,10 +1,10 @@
 import './style.scss';
 
 export default class Heading {
-  render() {
+  render(title) {
     const header = document.createElement('header');
     header.classList.add('header');
-    header.textContent = 'Webpack is awesome!';
+    header.textContent = title;
     document.body.appendChild(header);
     this.header = header;
   }
